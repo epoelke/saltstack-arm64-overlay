@@ -1,7 +1,7 @@
 Saltstack for arm64 Gentoo Overlay
 ==================================
 
-This overlay adds the ~arm64 keyword to app-admin/salt/salt-2019.2.2 and
+This overlay adds the ~arm64 keyword to app-admin/salt-2019.2.2 and
 dev-python/libnacl-1.6.1 ebuilds.  Your repos.conf file/directory will need
 the following added:
 
